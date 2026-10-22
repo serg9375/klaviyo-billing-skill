@@ -6,7 +6,7 @@
     {
       "name": "klaviyo-billing",
       "source": ".",
-      "description": "Explains a Klaviyo bill in plain numbers using sample data or the merchant's own read-only account data."
+      "description": "Explains a Klaviyo bill in plain numbers using the merchant's own read-only account data."
     }
   ]
 }
