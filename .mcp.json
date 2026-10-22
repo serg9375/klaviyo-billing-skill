@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "klaviyo-billing": {
+      "type": "http",
+      "url": "https://klaviyo-agent-backend.vercel.app/mcp"
+    }
+  }
+}

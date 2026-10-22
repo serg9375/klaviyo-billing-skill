@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "klaviyo-billing": {
+      "type": "streamable-http",
+      "url": "https://klaviyo-agent-backend.vercel.app/mcp",
+      "extensions": { "com.openai": { "auth": { "type": "none" } } }
+    }
+  }
+}

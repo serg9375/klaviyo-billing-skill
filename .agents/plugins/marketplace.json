@@ -1,0 +1,12 @@
+{
+  "name": "klaviyo-billing-marketplace",
+  "interface": { "displayName": "Klaviyo billing" },
+  "plugins": [
+    {
+      "name": "klaviyo-billing",
+      "source": { "source": "local", "path": "./" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Productivity"
+    }
+  ]
+}

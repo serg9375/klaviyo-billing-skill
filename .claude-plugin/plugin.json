@@ -1,0 +1,7 @@
+{
+  "name": "klaviyo-billing",
+  "version": "0.1.0",
+  "description": "Explains a Klaviyo bill in plain numbers: skill plus read-only billing connector.",
+  "author": { "name": "serg9375" },
+  "keywords": ["klaviyo", "billing", "mcp", "agent-skill"]
+}

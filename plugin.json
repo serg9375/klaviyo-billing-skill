@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "klaviyo-billing",
+  "version": "0.1.0",
+  "description": "Explains a Klaviyo bill in plain numbers: skill plus read-only billing connector."
+}

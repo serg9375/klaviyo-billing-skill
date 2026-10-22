@@ -1,0 +1,12 @@
+{
+  "name": "klaviyo-billing-marketplace",
+  "owner": { "name": "serg9375" },
+  "description": "Klaviyo billing explainer: skill and remote MCP connector.",
+  "plugins": [
+    {
+      "name": "klaviyo-billing",
+      "source": ".",
+      "description": "Explains a Klaviyo bill in plain numbers using sample data or the merchant's own read-only account data."
+    }
+  ]
+}
