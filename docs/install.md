@@ -1,5 +1,7 @@
 # Install the skill and connector per platform
 
+Most people do not need this page: pasting the one sentence from the [readme](../README.md) works on every assistant without installing anything. Install only to make the assistant remember the skill and connector.
+
 Two pieces, always installed together:
 
 - **Connector**: remote MCP server `https://klaviyo-agent-backend.vercel.app/mcp` (no auth on the endpoint; live data goes through Klaviyo's own Allow screen). REST fallback: `https://klaviyo-agent-backend.vercel.app/openapi.json`.
